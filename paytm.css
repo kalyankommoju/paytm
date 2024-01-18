@@ -156,7 +156,8 @@
 /* section 4*/
 .sec{
     background-color: rgba(239, 239, 239s, 0.6) !important;
-    padding: 4% 8%;
+    padding: 4% 5%;
+    text-align: center;
 }
 #h3{
     margin-top: 8%;
@@ -171,25 +172,27 @@
     border: none;
     padding-top:5%;
     border-radius: 20px;
-    padding-left: 6%;
+    padding-left: 5%;
 }
 #sec1id{
-    font-size: 40px;
+    font-size: 32px;
     margin-top: 2% !important;
+    text-align: left;
 }
 #sec5id{
-    font-size: 20px;
+    font-size: 25px;
     margin-top: 2% !important;
 }
 .sec5p{
     margin-top: 4%;
+    text-align: left;
 }
 #appp{
     border: 1px solid black;
     width: 74%;
     border-radius: 23px;
     padding: 2%;
-    margin-left: -3% !important;
+    margin-left: 6% !important;
     background-color: black;
     color: white;
     font-size: 17px;
@@ -230,6 +233,7 @@
 .sec8h{
     font-size: 18px;
 }
+
 /*sec6*/
 .section15{
     padding-top: 10%;
@@ -246,6 +250,21 @@
 #app5{
     border: none;
     width: 26%;
+    border-radius: 23px;
+    padding: 3%;
+    background-color: #002970;
+    color: white;
+    font-size: 17px;
+    margin-left: 4%;
+    margin-top: 1%;
+    font-weight: bold;
+    font-family: sans-serif;
+    cursor: pointer;
+
+}
+#app6{
+    border: none;
+    width: 29%;
     border-radius: 23px;
     padding: 3%;
     background-color: #002970;
